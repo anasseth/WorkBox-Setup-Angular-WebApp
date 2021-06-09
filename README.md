@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
+## Useful Resources
+
+1)https://medium.com/runic-software/simple-guide-to-workbox-in-angular-197c25396e68
+2)https://golb.hplar.ch/2018/06/workbox-serviceworker-in-angular-project.html
+3)https://ultimatecourses.com/blog/ultimate-guide-pwa-workbox
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
